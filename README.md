@@ -36,7 +36,7 @@ Select your game settings, including difficulty and color, with a simple click.
 ---
 
 ## 📂 Project Structure
-` ``` `
+```plaintext
 Chess-AI-Game/
 ├── ChessEngine.py       # Handles core game logic and rules
 ├── AI_Algo.py           # Implements AI algorithms (Negamax with Alpha-Beta Pruning)
@@ -60,8 +60,7 @@ Chess-AI-Game/
 │   ├── promote.mp3      # Sound effect for pawn promotion
 ├── README.md            # Project documentation
 ├── requirements.txt     # Python dependencies (e.g., Pygame)
-
-` ``` `
+```
 ---
 
 ## 🛠️ Installation

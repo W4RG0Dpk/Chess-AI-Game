@@ -36,7 +36,7 @@ Select your game settings, including difficulty and color, with a simple click.
 ---
 
 ## 📂 Project Structure
-```plaintext
+
 Chess-AI-Game/
 ├── ChessEngine.py       # Handles core game logic and rules
 ├── AI_Algo.py           # Implements AI algorithms (Negamax with Alpha-Beta Pruning)

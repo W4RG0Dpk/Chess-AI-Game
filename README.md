@@ -43,7 +43,6 @@ Chess-AI-Game/ ├── ChessEngine.py # Handles core game logic and rules ├�
 Follow these simple steps to get started:
 
 ### Step 1: Clone the Repository
-```bash
 git clone https://github.com/W4RG0Dpk/Chess-AI-Game.git
 cd Chess-AI-Game
 ### Step 2: Install Dependencies

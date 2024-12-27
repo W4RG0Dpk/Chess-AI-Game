@@ -103,10 +103,15 @@ Special Controls:
 Press Z to undo the last move.
 Press R to restart the game.
 
-🎨 Screenshots
-Below are placeholders for images; replace them with actual screenshots of your game!
+## 🎨 Screenshots
 
-<img src="https://via.placeholder.com/800x400?text=Chess+AI+Main+Menu" alt="Main Menu Screenshot" style="border-radius:10px;"> <img src="https://via.placeholder.com/800x400?text=Chess+Game+Interface" alt="Chess Game Screenshot" style="border-radius:10px;">
+### Main Menu
+The main menu allows you to select difficulty levels and choose your color:
+![Main Menu](screenshots/s1.png)
+
+### Game Interface
+The game interface features a chessboard with move highlights and intuitive controls:
+![Game Interface](screenshots/s3.png)
 
 ---
 

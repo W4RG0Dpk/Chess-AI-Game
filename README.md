@@ -114,6 +114,7 @@ The game interface features a chessboard with move highlights and intuitive cont
 
 ### Game logs and Stalemate demo
 ![Game Logs](screenshots/s2.png)
+Castling :
 ![Game Logs](screenshots/s4.png)
 ![Game Logs](screenshots/s5.png)
 ![Game Logs](screenshots/s6.png)

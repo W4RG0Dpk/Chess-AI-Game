@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue" alt="Python version">
   <img src="https://img.shields.io/badge/Pygame-2.5.0-green" alt="Pygame version">
-  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
   <img src="https://img.shields.io/badge/AI-Negamax%20with%20Alpha--Beta%20Pruning-red" alt="AI Algorithm">
 </div>
 

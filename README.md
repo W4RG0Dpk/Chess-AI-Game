@@ -36,28 +36,64 @@ Select your game settings, including difficulty and color, with a simple click.
 ---
 
 ## 📂 Project Structure
-Chess-AI-Game/ ├── ChessEngine.py # Handles core game logic and rules ├── AI_Algo.py # Implements AI algorithms ├── Main.py # Runs the game with Pygame interface ├── images/ # Folder containing chess piece images ├── sounds/ # Folder containing sound effects ├── README.md # Project documentation ├── requirements.txt # Python dependencies
+Chess-AI-Game/
+├── ChessEngine.py       # Handles core game logic and rules
+├── AI_Algo.py           # Implements AI algorithms (Negamax with Alpha-Beta Pruning)
+├── Main.py              # Main script to run the game with the Pygame interface
+├── images/              # Folder containing chess piece images
+│   ├── bB.PNG           # Black Bishop
+│   ├── bK.PNG           # Black King
+│   ├── bN.PNG           # Black Knight
+│   ├── bP.PNG           # Black Pawn
+│   ├── bQ.PNG           # Black Queen
+│   ├── bR.PNG           # Black Rook
+│   ├── wB.PNG           # White Bishop
+│   ├── wK.PNG           # White King
+│   ├── wN.PNG           # White Knight
+│   ├── wP.PNG           # White Pawn
+│   ├── wQ.PNG           # White Queen
+│   ├── wR.PNG           # White Rook
+├── sounds/              # Folder containing sound effects
+│   ├── move.mp3         # Sound effect for a regular move
+│   ├── capture.mp3      # Sound effect for capturing a piece
+│   ├── promote.mp3      # Sound effect for pawn promotion
+├── README.md            # Project documentation
+├── requirements.txt     # Python dependencies (e.g., Pygame)
+
+---
 
 ## 🛠️ Installation
 
 Follow these simple steps to get started:
 
+---
+
 ### Step 1: Clone the Repository
 git clone https://github.com/W4RG0Dpk/Chess-AI-Game.git
 cd Chess-AI-Game
+
+---
+
 ### Step 2: Install Dependencies
 Make sure you have Python 3.8+ installed, then install the required packages:
 pip install -r requirements.txt
+
+---
+
 ### Step 3: Run the Game
 Start the chess game by running:
 python Main.py
 
+---
+
 🎮 How to Play
 Launch the Game:
+
 
 Select the difficulty level (Easy, Medium, Hard).
 Choose your color (White or Black).
 Move Your Pieces:
+
 
 Click on a piece to see valid moves highlighted on the board.
 Click on a valid destination to move the piece.
@@ -71,22 +107,32 @@ Below are placeholders for images; replace them with actual screenshots of your 
 
 <img src="https://via.placeholder.com/800x400?text=Chess+AI+Main+Menu" alt="Main Menu Screenshot" style="border-radius:10px;"> <img src="https://via.placeholder.com/800x400?text=Chess+Game+Interface" alt="Chess Game Screenshot" style="border-radius:10px;">
 
+---
+
 🤖 How the AI Works
 The AI uses the Negamax algorithm with Alpha-Beta pruning to search for optimal moves:
 
 Negamax: Simplifies decision-making by flipping scores for the opponent's perspective.
 Alpha-Beta Pruning: Optimizes the search by cutting off branches that cannot influence the outcome.
 
+---
+
 💻 Tech Stack
 Python: Core language for implementation.
 Pygame: For graphical interface and animations.
 Multiprocessing: To manage AI computations efficiently
+
+---
 
 🔊 Credits
 Pygame: For providing an easy-to-use library for graphics and sound.
 Freepik: Source of chess piece images.
 Zapsplat: Source of sound effects.
 
+---
+
 🌟 Connect
-Follow me on GitHub for more projects like this! 😄
+Follow me on GitHub for more projects like this! 😄 
+Or
+you can contact me on instagram: pavankrishna_v
 

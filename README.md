@@ -114,20 +114,27 @@ Below are placeholders for images; replace them with actual screenshots of your 
 The AI uses the Negamax algorithm with Alpha-Beta pruning to search for optimal moves:
 
 Negamax: Simplifies decision-making by flipping scores for the opponent's perspective.
+
 Alpha-Beta Pruning: Optimizes the search by cutting off branches that cannot influence the outcome.
 
 ---
 
 💻 Tech Stack
+
 Python: Core language for implementation.
+
 Pygame: For graphical interface and animations.
+
 Multiprocessing: To manage AI computations efficiently
 
 ---
 
 🔊 Credits
+
 Pygame: For providing an easy-to-use library for graphics and sound.
+
 Freepik: Source of chess piece images.
+
 Zapsplat: Source of sound effects.
 
 ---

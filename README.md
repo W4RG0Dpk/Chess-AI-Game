@@ -86,7 +86,7 @@ python Main.py
 
 ---
 
-🎮 How to Play
+## 🎮 How to Play
 Launch the Game:
 
 
@@ -120,7 +120,7 @@ The game interface features a chessboard with move highlights and intuitive cont
 
 ---
 
-🤖 How the AI Works
+## 🤖 How the AI Works
 The AI uses the Negamax algorithm with Alpha-Beta pruning to search for optimal moves:
 
 Negamax: Simplifies decision-making by flipping scores for the opponent's perspective.
@@ -129,7 +129,7 @@ Alpha-Beta Pruning: Optimizes the search by cutting off branches that cannot inf
 
 ---
 
-💻 Tech Stack
+## 💻 Tech Stack
 
 Python: Core language for implementation.
 
@@ -139,7 +139,7 @@ Multiprocessing: To manage AI computations efficiently
 
 ---
 
-🔊 Credits
+## 🔊 Credits
 
 Pygame: For providing an easy-to-use library for graphics and sound.
 
@@ -149,7 +149,7 @@ Zapsplat: Source of sound effects.
 
 ---
 
-🌟 Connect
+## 🌟 Connect
 Follow me on GitHub for more projects like this! 😄 
 Or
 you can contact me on instagram: pavankrishna_v

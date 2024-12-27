@@ -113,6 +113,12 @@ The main menu allows you to select difficulty levels and choose your color:
 The game interface features a chessboard with move highlights and intuitive controls:
 ![Game Interface](screenshots/s3.png)
 
+### Game logs and Stalemate demo
+![Game Logs](screenshots/s2.png)
+![Game Logs](screenshots/s4.png)
+![Game Logs](screenshots/s5.png)
+![Game Logs](screenshots/s6.png)
+
 ---
 
 🤖 How the AI Works
